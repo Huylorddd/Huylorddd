@@ -2,9 +2,9 @@
 
 
 ### **</>** In Function 'int main()':
-**</>line 5 ::** print("Konnichiwa!")  
-**</>line 6 ::** print("I\'m 2nd-Year Computer Science Major and a Tech loooooover 🤖")  
-**</>line 7 ::** print("From Saigon 🌱")    
+**</>line 5 ::** printf("Konnichiwa!");  
+**</>line 6 ::** printf("I\'m 2nd-Year Computer Science Major and a Tech loooooover 🤖");  
+**</>line 7 ::** printf("From Saigon 🌱");    
 
 
  ![NEWS_MOBILE_STEINS-GATE](https://github.com/user-attachments/assets/6390008a-22ae-428f-b9c2-0dcc355e919b)  
