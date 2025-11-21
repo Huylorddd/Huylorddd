@@ -6,9 +6,8 @@
 **</>line 6 ::** printf("I\'m 2nd-Year Computer Science Major and a Tech loooooover 🤖");  
 **</>line 7 ::** printf("From Saigon 🌱");    
 
-
- ![NEWS_MOBILE_STEINS-GATE](https://github.com/user-attachments/assets/6390008a-22ae-428f-b9c2-0dcc355e919b)  
-**::<>::::<>::::<>::::<>::::<>::::<>::::<>::::<>::::<>::::<>:: EL PSY CONGROO ::<>::::<>::::<>::::<>::::<>::::<>::::<>::::<>::::<>::::<>::**  
+![random-question-but-does-anyone-have-versions-of-this-cat-v0-ya8qikz9kn0f1](https://github.com/user-attachments/assets/1a725cf0-3b0f-4fb2-b6a4-fd6f06ecf361)  
+ 
 
 ## 🛠️ TOOLS:  
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
